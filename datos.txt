@@ -8,7 +8,7 @@ Antecedentes=Acoso,Hallanamiento,Suicidio,mutilación
 Descripciones=toqueteo múltiple,robo de cnodones usados,uso de aramas balncas para auto mutilación,uso de armas de fuego
 
 Persona No. 2
-
+KYC
 Nombre=Maria la del barrio
 Cedula=562287982
 Edad=100000000
