@@ -1,0 +1,17 @@
+Persona No. 1
+
+Nombre=juan
+Cedula=5985652264
+Edad=56854
+Genero=F
+Antecedentes=Acoso,Hallanamiento,Suicidio,mutilación
+Descripciones=toqueteo múltiple,robo de cnodones usados,uso de aramas balncas para auto mutilación,uso de armas de fuego
+
+Persona No. 2
+
+Nombre=Maria la del barrio
+Cedula=562287982
+Edad=100000000
+Genero=M
+Antecedentes=Extroción,Hallanamiento,BDSM,No sé
+Descripciones=toqueteo múltiple,robo de cnodones usados,uso de aramas balncas para auto mutilación,uso de armas de fuego
