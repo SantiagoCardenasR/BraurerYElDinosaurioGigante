@@ -15,3 +15,5 @@ Edad=100000000
 Genero=M
 Antecedentes=Extroción,Hallanamiento,BDSM,No sé
 Descripciones=toqueteo múltiple,robo de cnodones usados,uso de aramas balncas para auto mutilación,uso de armas de fuego
+
+Cambio desde Eclipse
